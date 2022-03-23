@@ -3,3 +3,5 @@
 Some text
 
 Added by quickTest
+
+Added by master
